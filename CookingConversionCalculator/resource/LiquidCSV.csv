@@ -1,0 +1,11 @@
+value,fromUnit,toUnit,expected
+1,cup,ml,250
+1,cup,oz,8
+2,tablespoon,quart,30
+1,oz,ml,29.574
+1,pint,ml,473.176
+1,quart,liter,0.946
+100,ml,oz,3.4
+1,liter,pint,2.113
+1,liter,quart,1.057
+1,liter,gallon,0.264

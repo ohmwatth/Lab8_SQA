@@ -1,0 +1,6 @@
+value,fromUnit,toUnit,expected
+32,fahrenheit,celsius,0
+212,fahrenheit,celsius,100
+0,celsius,fahrenheit,32
+100,celsius,fahrenheit,212
+-40,fahrenheit,celsius,-40

@@ -1,0 +1,5 @@
+value,choice,fromUnit,toUnit,expected
+10,temperature,fahrenheit,celsius,999.99
+1,mass,cup,gram,222.22
+1,liquid,liter,quart,123.456
+10,pressure,pascal,bar,0
